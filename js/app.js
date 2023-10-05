@@ -71,7 +71,7 @@ const workers = [
   {name: "Billy", salary: 60000, department: "DEVOPS"}
 ];
 
-// Код взят у Влада с Денисом. За что ему большое спасибо) 
+// Код взят у Влада с Денисом. За что им большое спасибо) 
 
 function stat(workers) {
     const SalDep = workers.reduce((acc, curr) => {
